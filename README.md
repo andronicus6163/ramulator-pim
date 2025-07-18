@@ -1,4 +1,6 @@
-﻿
+This is a fork from the original zsim-ramulator repository here- https://github.com/CMU-SAFARI/ramulator-pim 
+
+ 
 # ZSim+Ramulator - A Processing-in-Memory Simulation Framework
 
 ZSim+Ramulator is a framework for design space exploration of general-purpose Processing-in-Memory (PIM) architectures. 
